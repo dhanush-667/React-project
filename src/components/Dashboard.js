@@ -1,4 +1,5 @@
 // src/components/Dashboard.js
+// sample
 
 import React, { useState } from 'react';
 import Sidebar from './Sidebar';
